@@ -451,6 +451,51 @@ var dataTest = {
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Test RegionalRadioBW",
+				"channel": "12B",
+				"location": "Abstatt, Heilbronn, Germany",
+				"start": "01.07.2022",
+				"operator": "RegionalRadioBW",
+				"operatorUrl": "https://www.regionalradiobw.de/",
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.298, 49.0878]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Test RegionalRadioBW",
+				"channel": "12B",
+				"location": "Stocksberg, Loewenstein, Germany",
+				"start": "01.08.2022",
+				"operator": "RegionalRadioBW",
+				"operatorUrl": "https://www.regionalradiobw.de/",
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.4034, 49.0665]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Test RegionalRadioBW",
+				"channel": "12B",
+				"location": "Gueglingen, Heilbronn, Germany",
+				"start": "01.08.2022",
+				"operator": "RegionalRadioBW",
+				"operatorUrl": "https://www.regionalradiobw.de/",
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [8.9974, 49.034]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Trial Birmingham",
 				"channel": "9A",
 				"location": "Castle Vale, Birmingham, England",
